@@ -5,6 +5,10 @@
   text-align: center;
 }
 
+.App .selected{
+ color: green;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
